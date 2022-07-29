@@ -1051,6 +1051,11 @@ body {
 }
 
 @media (max-width: 460px) {
+	.header {
+		height: 100%;
+		background-size: 100%;
+	}
+
 	.customers__img img {
 		max-width: 100%;
 	}
@@ -1085,11 +1090,5 @@ body {
 	.nav--mobile .nav__list,
 	.nav--mobile .nav__login {
 		row-gap: 20px;
-	}
-
-	.header__img {
-		position: relative;
-		background-image: url(/img/header/header-img.png);
-		background-size: 200px;
 	}
 }
