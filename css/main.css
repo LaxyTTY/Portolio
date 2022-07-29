@@ -348,7 +348,7 @@ body {
 	overflow: hidden;
 	top: 0;
 	left: 0;
-	padding: 20px;
+	padding: 12px;
 	text-align: center;
 	text-transform: uppercase;
    }
@@ -363,8 +363,8 @@ body {
 	font-size: 16px;
 	color: #2a0000;
 	text-align: left;
-	margin-left: 100px;
-	margin-top: 20px;
+	margin-left: 108px;
+	margin-top: 18px;
    }  
 
    .subtitle-icon {
