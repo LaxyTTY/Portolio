@@ -361,7 +361,7 @@ body {
 	font-weight: bolder;
 	font-size: 28px;
 	margin-top: 20px;
-	color: #ffffff;
+	color: #2a0000;
 	text-align: left;
 	margin-left: 100px;
    }  
@@ -464,9 +464,6 @@ body {
 	border-radius: 60px;
 }
 
-.customers__content {
-}
-
 .customers__title {
 	margin-bottom: 35px;
 	font-size: 45px;
@@ -494,9 +491,6 @@ body {
 	background-color: #ff794e;
 }
 
-.review__client-desc {
-}
-
 .review__client-desc-name {
 	margin-bottom: 10px;
 	font-size: 33px;
@@ -512,8 +506,6 @@ body {
 	color: var(--secondary);
 	font-size: 22px;
 	font-weight: 500;
-}
-.review__rating {
 }
 
 /* CTA */
