@@ -1051,10 +1051,6 @@ body {
 }
 
 @media (max-width: 460px) {
-	.header {
-		height: 100%;
-		background-size: 100%;
-	}
 
 	.customers__img img {
 		max-width: 100%;
