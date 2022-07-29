@@ -44,7 +44,7 @@ body {
 	position: relative;
 	min-height: 940px;
 	padding-top: 44px;
-	background-image: url(/img/header/header-img.png);
+	background-image: url(./img/header/header-img.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 	color: rgb(37, 0, 0);
