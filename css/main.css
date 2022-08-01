@@ -593,7 +593,8 @@ body {
 /* Buttons */
 
 .btn {
-	display: inline-block;
+	display: flex;
+	justify-content: center;
 	padding: 25px 45px;
 	color: #fff !important;
 
